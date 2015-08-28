@@ -1,3 +1,5 @@
+![Alt text](/pitch01_30.png) ![Alt text](/roll01_22.png)
+
 Anatomically physical modeling and simulation of the Human Neck.
 
 Based on [ArtiSynth], a biomechanical human neck model is developed in JAVA language, for modeling and simulating the physical dynamics 
