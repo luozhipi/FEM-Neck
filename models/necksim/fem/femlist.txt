@@ -1,0 +1,3 @@
+sternohyoid mne016 pair hyoid base
+thyrohyoid mne020 pair hyoid thyroid
+sternocleidomastoid mne015_a pair skull base

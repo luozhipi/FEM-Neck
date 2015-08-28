@@ -1,0 +1,13 @@
+base base.obj
+C1 C1.obj
+C2 C2.obj
+C3 C3.obj
+C4 C4.obj
+C5 C5.obj
+C6 C6.obj
+C7 C7.obj
+skull skull.obj
+jaw jaw.obj
+hyoid hyoid.obj
+thyroid thyroid.obj
+cricoid cricoid.obj
